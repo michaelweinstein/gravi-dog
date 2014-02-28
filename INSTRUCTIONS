@@ -1,0 +1,24 @@
+
+To play the game, in terminal enter:
+
+java -jar gravi-dog.jar
+
+
+You are on a planet far away, where gravity is not so certain as it is on earth. Only one dog has the power to control it, and you have the power to control that dog. Enter... Gravi-Dog.
+
+'arrow keys' -- move gravidog
+'mouse scroll' -- zoom in/out
+'r' -- reset
+'q' -- quit
+
+Use scrolling to zoom in and out.
+
+Use arrow keys to move around. The World's gravity changes according to the surface the player is on.
+
+Pick up the stars and reach the end of the level by reaching the door. The door is locked until at least one star is picked up. 
+
+In the Main Menu, press 'Play' to play the game, and press 'Reset' to play the game without any star stats.
+
+The number of stars you earn for each level will be saved unless you press 'Reset' to start a new game from the Main Menu.
+
+Levels that are not yet open are gray. Levels you have unlocked are yellow, and will have at least one star. (The level 5 box will be moved onto a new row on the next push)
